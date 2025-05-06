@@ -4,16 +4,6 @@ A Streamlit-based web application that predicts health insurance premiums using 
 
 ---
 
-## Features
-
-- Predicts health insurance premiums based on demographic and medical inputs
-- Separate models for young and older users for personalized accuracy
-- SHAP-based explainability with intuitive **waterfall plots**
-- User-friendly web interface built with Streamlit
-- Modular code: separates UI, prediction logic, and preprocessing
-- Includes genetical and medical history scoring
-
----
 
 ## Installation
 
