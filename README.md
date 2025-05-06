@@ -19,7 +19,6 @@ cd premium-prediction-xai
 ```bash
 python -m venv env
 env\Scripts\activate
-
 ```
 
 ### Step 3: Install required packages
@@ -29,7 +28,6 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 ### Step 4: Running the Application
-
 ```bash
 streamlit run app/main.py
 
